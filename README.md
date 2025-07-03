@@ -47,15 +47,15 @@ This project analyzes the NYC Yellow Taxi trip data using **Python**, **Pandas**
 ## 📂 Folder Structure
 📦 NYC-Taxi-Analysis
 ├── 📁 Data
-│   └── tenkdata.xlsx                      # Cleaned Excel dataset
+│   └── tenkdata.xlsx                      
 │
 ├── 📁 Notebook
-│   └── nyc_taxi_analysis.ipynb            # Python Jupyter notebook
+│   └── nyc_taxi_analysis.ipynb            
 │
 ├── 📁 Images
-│   ├── revenue.png                        # Total revenue per day
-│   ├── passenger behaviour.png            # Passenger count / behavior analysis
-│   ├── payment.png                        # Payment type distribution
-│   └── trip overview.png                  # Total trips per hour or over time
+│   ├── revenue.png                        
+│   ├── passenger behaviour.png            
+│   ├── payment.png                        
+│   └── trip overview.png                  
 │
-└── 📄 README.md                            # Project overview and instructions
+└── 📄 README.md                            
