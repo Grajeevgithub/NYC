@@ -11,7 +11,6 @@
 
 
 
-
 # 🗽 NYC Yellow Taxi Trip Analysis (May 2025)
 
 This project analyzes the NYC Yellow Taxi trip data using **Python**, **Pandas**, **Matplotlib**, and **Seaborn**. It explores trip patterns, revenue, passenger behavior, and temporal trends, providing visual insights from the dataset.
